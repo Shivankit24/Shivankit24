@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shivankit Fohtra
 
-Senior Native iOS Engineer with **9+ years of experience** building high‑quality, scalable apps for global companies like **HSBC**, **Lloyds Banking Group**, and **Ford Motor Company**.
+Senior Native iOS Engineer with **10 years of experience** building high‑quality, scalable apps for global companies like **HSBC**, **Lloyds Banking Group**, **Bell Canada** and **Ford Motor Company**.
 
 I specialize in crafting clean architectures, delightful user experiences, and production‑ready systems that scale — with a strong focus on performance, maintainability, and accessibility.
 
@@ -10,6 +10,7 @@ I specialize in crafting clean architectures, delightful user experiences, and p
 
 * Native iOS Development (Swift, SwiftUI, UIKit)
 * MVVM & Clean Architecture
+* Performance optimization
 * Async/Await, Concurrency, Performance optimization
 * Memory management
 * Payments & FinTech integrations
