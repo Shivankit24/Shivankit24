@@ -10,7 +10,6 @@ I specialize in crafting clean architectures, delightful user experiences, and p
 
 * Native iOS Development (Swift, SwiftUI, UIKit)
 * MVVM & Clean Architecture
-* Performance optimization
 * Async/Await, Concurrency, Performance optimization
 * Memory management
 * Payments & FinTech integrations
